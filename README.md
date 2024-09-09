@@ -75,7 +75,7 @@ local bResult = createDirectory(String szPath);
 ```lfree script.lua``` - выгружает луа скрипт\
 ```lreload script.lua``` - перезагружает луа скрипт\
 ```pload name``` - загружает dll файл\
-```pfree name``` - выгружает dll файл\
+```pfree name``` - выгружает dll файл
 
 Игровые функции, которые должны работать так же, как в оригинальной GTA SA
 
